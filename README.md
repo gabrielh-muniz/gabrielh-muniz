@@ -1,4 +1,4 @@
-There's nothing to see here🤔. Right now, I'm such a WIP
+WIP
 
 <!--
 **gabrielh-muniz/gabrielh-muniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
